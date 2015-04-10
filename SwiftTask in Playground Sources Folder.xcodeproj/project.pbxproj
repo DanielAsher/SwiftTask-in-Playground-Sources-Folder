@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		65BD77071AD7D6A400DA8EFC /* SwiftTaskInPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftTaskInPlayground.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		65BD77001AD7D67E00DA8EFC = {
 			isa = PBXGroup;
 			children = (
+				65BD77071AD7D6A400DA8EFC /* SwiftTaskInPlayground.playground */,
 			);
 			sourceTree = "<group>";
 		};
